@@ -9,17 +9,36 @@
     </head>
     <body>
         <div class="left-sidebar">
-
+            <img class="background-image" src="images/taiki-ishikawa-ZWb2D6S_z9Y-unsplash.jpg" alt="building image by taiki ishikawa">
         </div>
         <div class="right-side">
             <div class="content-text">
-
+                <p>This is not a real online service! You know you need something
+                   like this in your life to help you realize your deepest dreams.
+                   Sign up <em>now</em> to get started.
+                </p>
+                <p>You <em>know</em> you want to.</p>
             </div>
             <div class="form">
-
+                <span>Let's do this!</span>
+                <form action="/submit_page.php" method="post">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="fname">
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lname"><br>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email">
+                    <label for="pnumber">Phone Number</label>
+                    <input type="number" id="pnumber" name="pnumber"><br>
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password">
+                    <label for="cpassword">Confirm Password</label>
+                    <input type="password" id="cpassword" name="cpassword"><br>
+                </form>
             </div>
             <div class="sign-up-buttons">
-
+                <button>Create Account</button>
+                <p>Already have an account? <a href="login.html">Log in</a></p>
             </div>
         </div>
     </body>
