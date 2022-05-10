@@ -16,3 +16,9 @@ Downloaded and transferred files that I'll need for the project. Started filling
 Need to figure out some things... like how to make the form items align properly. Make the right side content boxes stretch out accordingly. Place the footer at the bottom of left background image (centered)...
 
 Might need to rethink the logo... 'cause I need to include a text...
+
+---
+
+10/05/2022
+
+Made some minor modifications, but not much progress...

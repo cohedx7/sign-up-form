@@ -30,22 +30,31 @@ body {
     max-height: 75%;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
-    margin-top: 50px;
+    margin-top: 2em;
 }
 
 .content-text {
     background-color: silver;
-    margin-bottom: 50px;
+    margin-bottom: 2em;
+    padding: 1em;
 }
 
 .sign-up-buttons {
     background-color: silver;
+    padding: 1em;
 }
 
 .form {
     display: grid;
-    grid-template-columns: auto;
-    margin-bottom: 50px;
+    padding: 1em;
+    margin-bottom: 2em;
+    gap: 1em;
+    grid-template-columns: 100px 100px; /* how to make this work?? */
+    grid-template-rows: auto;
+    justify-content: space-evenly;;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
 }
 
 .logo {
