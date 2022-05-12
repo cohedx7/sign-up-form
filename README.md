@@ -32,3 +32,13 @@ Significant progress... finally was able to align the form field-elements proper
 I might need to adjust some css values so that the page slides accordingly to the desktop (or mobile) window size...
 
 Styled the button and some other small things as well.
+
+---
+
+12/05/2022
+
+Changed some view settings so the boxes and window resize accordingly. Also repositioned the footer and logo texts (along with the images).
+
+It seems ok for the most part. Added button change color on hover and input fields' boxes change to red color on focus.
+
+I guess it's pretty much done at this point. I might need to refine some things-elements, but yea I'm pretty satisfied with how this turned out.
