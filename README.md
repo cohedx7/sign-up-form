@@ -42,3 +42,11 @@ Changed some view settings so the boxes and window resize accordingly. Also repo
 It seems ok for the most part. Added button change color on hover and input fields' boxes change to red color on focus.
 
 I guess it's pretty much done at this point. I might need to refine some things-elements, but yea I'm pretty satisfied with how this turned out.
+
+---
+
+13/05/2022
+
+I edited a few things to give the final touch and re-organized my CSS file so it's easier to read.
+
+It seems ok to me. It's probably not perfect but good enough.
